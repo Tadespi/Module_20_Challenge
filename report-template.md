@@ -30,6 +30,7 @@ Using bulleted lists, describe the balanced accuracy scores and the precision an
 
 * Machine Learning Model 1:
   * Description of Model 1 Accuracy, Precision, and Recall scores.
+ 
                  precision    recall  f1-score   support
 
            0       1.00      0.99      1.00     18765
@@ -42,6 +43,7 @@ weighted avg       0.99      0.99      0.99     19384
 
 * Machine Learning Model 2:
   * Description of Model 2 Accuracy, Precision, and Recall scores.
+ 
                 precision    recall  f1-score   support
 
            0       0.99      0.99      0.99     56271
